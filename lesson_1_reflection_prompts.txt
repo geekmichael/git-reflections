@@ -1,0 +1,57 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    In Windows OS, using the command FC to compare two files. In Mac or Linux, using the command diff.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Use git and github
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+    Use git to create commit or version can easily in a logical way, rather than automatically create new version for every change. In addition, having versions manually can minimize version control log for better review.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git, SVN, CVS and others are good for software development project, particularly for managing multiple plain text files simultaneously. Google Docs and Dropbox are better for single rich text files and multi-media files editing.
+
+How can you use the commands git log and git diff to view the history of files?
+
+  Run the command 'git log --stat' to list all commits with change descriptions, and 'git diff commit-id-pre commit-id' to compare two versions.
+
+How might using version control make you more confident to make changes that could break something?
+
+  Use the command 'git checkout' can help reverse changes in case incorrect changes made to files.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  I will use Git to manage all of my project files, system configuration files, and others.
