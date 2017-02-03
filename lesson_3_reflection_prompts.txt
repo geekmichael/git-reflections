@@ -1,1 +1,3 @@
+Q1. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+  For a better control code update in case local version be replaced by the remote repository. 
