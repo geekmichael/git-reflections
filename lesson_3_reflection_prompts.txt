@@ -11,3 +11,7 @@ Q2. Describe the differences between forks, clones, and branches. When would you
 Q3. What is the benefit of having a copy of the last known state of the remote stored locally?
 
   Developers can continue work even offline, and without destruction to others.
+
+Q4. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  Distribute files to different developers and then assign different development tasks. It would be easy for each developer to manage their own work, but very hard to merge files and resolve the conflicts. 
