@@ -14,4 +14,8 @@ Q3. What is the benefit of having a copy of the last known state of the remote s
 
 Q4. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-  Distribute files to different developers and then assign different development tasks. It would be easy for each developer to manage their own work, but very hard to merge files and resolve the conflicts. 
+  Distribute files to different developers and then assign different development tasks. It would be easy for each developer to manage their own work, but very hard to merge files and resolve the conflicts.
+
+Q5. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  When I want to develop additional or different features based on the master, I will create branch so my new development will not affect other developers. For developing directly in the master, it's better fox minor bug fixing. 
